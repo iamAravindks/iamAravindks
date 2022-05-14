@@ -8,10 +8,10 @@
 💡 &nbsp;Figuring out the sense of life \
 🎓 &nbsp;Computer science and Engineering student @Government Engineering college Palakkad , Kerala.\
 🏠 &nbsp;living in **Kerala, India** \
-🌱 &nbsp;A Developer who uses MERN stack to build stuffs \
+🌱 &nbsp;A Developer who currently used MERN stack to build stuffs \
 ✍️ &nbsp;Anime🎬️🍿,music🎼 and trying out something new as hobbies/side hustles .\
 🥷&nbsp;Keen learner \
-👥&nbsp;dancers I’m looking to collaborate with other programmers for small projects. \
+👥&nbsp;I’m looking to collaborate with other programmers. \
 ✉️ &nbsp;You can shoot me an email at aravindkadaikattu@gamil.com! I'll try to respond as soon as I can.
 
 
